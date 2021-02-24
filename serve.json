@@ -1,0 +1,15 @@
+{
+  "public": "_site",
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/estore/app"
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/estore/app/**",
+      "destination": "/estore/app/index.html"
+    }
+  ]
+}
