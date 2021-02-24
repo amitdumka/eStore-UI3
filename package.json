@@ -2,6 +2,7 @@
     "name": "estore-matui",
     "version": "1.0.1",
     "private": true,
+    "homepage": "https://estservores.azurewebsites.net/app",
     "scripts": {
         "start": "react-scripts start -o",
         "build": "react-scripts build",
