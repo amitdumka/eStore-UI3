@@ -4,7 +4,7 @@
     "private": true,
     "homepage": "https://estservores.azurewebsites.net/app",
     "scripts": {
-        "start": "react-scripts start -o",
+        "start": "react-scripts start ",
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
