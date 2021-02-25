@@ -4,7 +4,7 @@
     "private": true,
     "homepage": "https://estservores.azurewebsites.net/app",
     "scripts": {
-        "start": "react-scripts start ",
+        "start": "react-scripts start -o",
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
@@ -49,6 +49,7 @@
         "clipboard-copy": "3.1.0",
         "clsx": "1.1.0",
         "cp-cli": "2.0.0",
+        "create-react-app": "^4.0.3",
         "css-mediaquery": "0.1.2",
         "date-fns": "2.8.1",
         "downshift": "3.4.2",
